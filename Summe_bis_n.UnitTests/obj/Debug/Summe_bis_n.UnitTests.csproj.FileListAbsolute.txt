@@ -1,0 +1,34 @@
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Summe_bis_n.UnitTests.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Summe_bis_n.UnitTests.pdb
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Summe bis n.exe
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Summe bis n.pdb
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Summe bis n.exe.config
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.csprojAssemblyReference.cache
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.csproj.CopyComplete
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.dll
+C:\Users\wilko\source\repos\Summe bis n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.pdb
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\bin\Debug\Summe_bis_n.UnitTests.dll
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\bin\Debug\Summe_bis_n.UnitTests.pdb
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\bin\Debug\Summe bis n.exe
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\bin\Debug\Summe bis n.pdb
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\bin\Debug\Summe bis n.exe.config
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.csprojAssemblyReference.cache
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.csproj.CopyComplete
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.dll
+C:\Users\wilko\Source\Repos\HSP-Vorlage-Summe_bis_n\Summe_bis_n.UnitTests\obj\Debug\Summe_bis_n.UnitTests.pdb
