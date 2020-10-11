@@ -1,5 +1,5 @@
 # HSP-Vorlage-Summe_bis_n
-Vorlage für die Aufgabe Summe_bis_n Hochsprachenprogrammierung WiSe 2019/2020 an der Jade Hchschule
+Vorlage für die Aufgabe Summe_bis_n Hochsprachenprogrammierung WiSe 2019/2020 an der Jade Hochschule
 
 Aufgabe: Implementieren einen Algorithmus der bis "n" aufsummiert in der Methode "Summe_bis_n_Methode" innerhalb der Klasse "Summe_bis_n" Summe bis n\summe_bis_ n.cs
 
