@@ -1,7 +1,7 @@
-# HSP-Vorlage-Summe_bis_n
-Vorlage für die Aufgabe Summe_bis_n Hochsprachenprogrammierung WiSe 2019/2020 an der Jade Hochschule
+# Summe_bis_n
+Aufgabe Summe_bis_n für Hochsprachenprogrammierung / Mecke an der Jade Hochschule
 
-Aufgabe: Implementieren einen Algorithmus der bis "n" aufsummiert in der Methode "Summe_bis_n_Methode" innerhalb der Klasse "Summe_bis_n" Summe bis n\summe_bis_ n.cs
+Aufgabe: Implementieren einen Algorithmus der bis "n" die Werte der Zahlen aufsummiert in der Methode "Summe_bis_n_Methode" innerhalb der Klasse "Summe_bis_n" Summe bis n\summe_bis_ n.cs
 
 
 ## Getting Started
@@ -13,4 +13,4 @@ Wenn Sie fertig sind, dann
 * Im Projektmappen Explorer (engl. Solution Explorer) klicken Sie rechts das -Unittesting Projekt und wählen Sie "Tests ausführen"
 * Starten Sie die Tests innerhalb des Test-Explorers
 
-Diesen Ablauf können Sie auch in diesem Video nachvollziehen.
+Diesen Ablauf können Sie auch [in diesem Video](https://e.video-cdn.net/share?video-id=DanEHo-4AXmYUHiQa4s7ji&player-id=EQXSwJteHsd-jonvxZMcPQ&channel-id=88624) nachvollziehen.
