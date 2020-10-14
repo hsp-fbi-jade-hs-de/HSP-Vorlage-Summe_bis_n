@@ -22,7 +22,7 @@ namespace Summe_bis_n
         {
             Summe_bis_n prg = new Summe_bis_n();
 
-            Console.WriteLine("Bis zu welcher zahl soll aufsummiert werden?.");
+            Console.WriteLine("Bis zu welcher zahl soll aufsummiert werden?");
             Console.Write("Eingabe: ");
             int input = Convert.ToInt32(Console.ReadLine());
             int summe_bis_n = prg.Summe_bis_n_Methode(input);
