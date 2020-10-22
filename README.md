@@ -3,6 +3,7 @@ Aufgabe Summe_bis_n für Hochsprachenprogrammierung / Mecke an der Jade Hochschu
 
 Aufgabe: Implementieren einen Algorithmus der bis "n" die Werte der Zahlen aufsummiert in der Methode "Summe_bis_n_Methode" innerhalb der Klasse "Summe_bis_n" Summe bis n\summe_bis_ n.cs
 
+Variante (Level 3): Implementieren Sie den Algorithmus mit einer Rekursion, wie in Vorlesung 5 gezeigt.
 
 ## Getting Started
 * Clonen Sie die Repository auf Ihren Rechner
